@@ -72,7 +72,7 @@ import os, sys, shutil, subprocess
 	tulis(Panel(f"""
 {Te}{O}Mohon maaf 🙏 script ini belum saya rilis, mohon bersabar😸:
  
- {O}facebook{M} : {H}facebook.com/romi.afrizal.102 {P}(Romz Dev)
- {O}whatsap{M}  :{H} +628127301892
+ {O}facebook{M} : {H}facebook.com/WaGyoXD {P}(Wahyu XD)
+ {O}whatsap{M}  :{H} +6283132458199
 		""",style='#FF0022'))
 		
