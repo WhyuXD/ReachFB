@@ -55,7 +55,7 @@ if __name__=="__main__":
 		os.system('pkg install play-audio' )
 		#os.system(coox)
 			
-	from xyz import *
+	from xd import *
 	from wahyu.menu import wahyu_xd_ganteng_banget as onichan 
 	from shutil import rmtree as lolichan
 	runtah = [
@@ -72,7 +72,7 @@ if __name__=="__main__":
 	tulis(Panel(f"""
 {Te}{O}Mohon maaf 🙏 script ini belum saya rilis, mohon bersabar😸:
  
- {O}facebook{M} : {H}facebook.com/WaGyoXD {P}(Wahyu XD)
+ {O}facebook{M} : {H}facebook.com/WaGyoXD {P}(Wahyu XD) {H}facebook.com/Whyu.Xyzn {P}(Moch WahyuDin Ambia XD)
  {O}whatsap{M}  :{H} +6283132458199
 		""",style='#FF0022'))
 		
