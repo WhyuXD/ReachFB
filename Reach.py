@@ -7,7 +7,7 @@
 
 #---  JALANKAN TOOLS
 if __name__=="__main__":
-import os, sys, shutil, subprocess 
+        import os, sys, shutil, subprocess 
 	if sys.version_info.major != 3: # cek versi python 
 		exit("\n\t\x1b[0m type: python Reach.py \n")
 	
