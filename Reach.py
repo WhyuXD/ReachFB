@@ -55,13 +55,13 @@ if __name__=="__main__":
 		os.system('pkg install play-audio' )
 		#os.system(coox)
 			
-	from xd import *
+	from xyz import *
 	from wahyu.menu import wahyu_xd_ganteng_banget as onichan 
 	from shutil import rmtree as lolichan
 	runtah = [
 		"wahyu/__pycache__",
 		"log/__pycache__",
-		"xd/__pycache__"
+		"xyz/__pycache__"
 	]
 	try:
 		[lolichan(xz) for xz in runtah]
